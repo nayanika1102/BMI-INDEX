@@ -1,4 +1,4 @@
-__author__ = 'nayanika'
+__author__ = 'pradhan'
 
 from convert_units import UnitConversion
 from bmi_category import BmiCategroy
